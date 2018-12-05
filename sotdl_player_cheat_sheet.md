@@ -1,4 +1,4 @@
-## NOTE: This document is meant to be used with Groummy's hack for the Homebrewery. Delete the first line of this code, copy everything else into the [Homebrewery's](http://homebrewery.naturalcrit.com/) code section.
+## NOTE: This document is meant to be used with Groummy's hack for the Homebrewery. View the raw code, delete the first line of this code, copy everything else into the [Homebrewery's](http://homebrewery.naturalcrit.com/) code section.
 
 <link rel = "stylesheet" type = "text/css" href = "https://groumy.github.io/homebrewery-sotdl/homebrewery-sotdl.css" />
 
