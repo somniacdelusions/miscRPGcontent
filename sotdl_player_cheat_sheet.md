@@ -2,6 +2,7 @@
 
 <link rel = "stylesheet" type = "text/css" href = "https://groumy.github.io/homebrewery-sotdl/homebrewery-sotdl.css" />
 
+
 # Shadow of the Demon Lord
 ## Player Cheat Sheet
 ___
@@ -9,12 +10,9 @@ ___
 ### How the system works
 
 * **Challenge Roll**: Roll 1d20 + attribute modifier + **boons** or - **banes**. 10+ succeeds.
-
 * **Attack Roll**: Same as **challenge roll**, but must be ≥ opponent's defense or relevant attribute.
-
 * **Boons**: Roll a d6 for each **boon**; the highest roll  from the **boons** is added to the d20. Relevant professions can grant you boons!
-
-* **Banes**: Function as **boons** but subtracted from the roll.
+* **Banes**: Like **boons** but subtracted from the roll.
 
 #### Damage
 When you take **damage**, your **damage** score goes up, your Health does not go down. **Damage** can be healed by resting, character talents, and magic.
@@ -36,7 +34,7 @@ Table on core book page 112  gives spell castings. Note that this is castings fo
 
 ```
 ```
-
+<br>
 #### Frightening and Horrifying creatures
 
 * When you encounter a **frightening** creature, make a Will challenge roll to avoid being frightened for a number of rounds = 1d3 + your Insanity.
@@ -69,12 +67,14 @@ You get 1 **triggered action** each round. It can be used for specific actions w
 | 5. | End of Round    | |
 
 #### Common Actions in combat
-attack - cast a spell - concentrate - defend - end a talent or spell effect - help an ally - hide - prepare an action - reload - retreat - rush - stabilize - use an item
-For more information see core book page 48. 
+\- attack - cast a spell - concentrate - defend -
+<br> \- end a talent or spell effect - help an ally - hide -
+<br> \- prepare an action - reload - retreat - rush -
+<br> \- stabilize - use an item - 
+<br> For more information see core book page 48. 
 
->##### Credits:
 >***Shadow of the Demon Lord*** is trademark of Schwalb Entertainment, LLC. 
-> <br><br>
+> <br>
 >Buy Shadow of the Demon Lord [here](https://shop.schwalbentertainment.com/products/shadow-of-the-demon-lord-pdf).
-> <br><br>
+> <br>
 >Player Cheat Sheet made by [David South](www.somniacdelusions.wordpress.com) with [Groumy's hack](https://github.com/Groumy/homebrewery-sotdl) of the [Homebrewery](http://homebrewery.naturalcrit.com/).
